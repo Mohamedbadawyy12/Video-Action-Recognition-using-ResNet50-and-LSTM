@@ -11,14 +11,19 @@ The implementation is contained within a single Jupyter Notebook (`Action_Detect
 -----
 
 ## Table of Contents
+Project Overview
 
-  * [Project Overview](https://www.google.com/search?q=%23project-overview)
-  * [Model Architecture](https://www.google.com/search?q=%23model-architecture)
-  * [Dataset](https://www.google.com/search?q=%23dataset-)
-  * [Getting Started](https://www.google.com/search?q=%23getting-started-)
-  * [Results](https://www.google.com/search?q=%23results-)
-  * [Inference on a New Video](https://www.google.com/search?q=%23inference-on-a-new-video-)
-  * [Contributing](https://www.google.com/search?q=%23contributing-)
+Model Architecture
+
+Dataset
+
+Getting Started
+
+Results
+
+Inference on a New Video
+
+Contributing
 
 -----
 

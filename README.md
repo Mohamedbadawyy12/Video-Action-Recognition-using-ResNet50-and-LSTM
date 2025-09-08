@@ -67,26 +67,7 @@ This project is designed to be run in a **Google Colab** environment to take adv
   * A Google Account to use Google Colab and Google Drive.
   * The UCF-101 dataset uploaded to your Google Drive.
 
-### Setup
 
-1.  **Clone the Repository (Optional):**
-
-    ```bash
-    git clone <your-repository-url>
-    ```
-
-2.  **Upload to Google Drive:**
-
-      * Upload the `Action_Detection_In_Video.ipynb` notebook to your Google Drive.
-      * Upload the UCF-101 dataset to a folder in your Google Drive (e.g., `My Drive/Datasets/UCF-101`).
-
-3.  **Install Dependencies:** The notebook uses standard Python libraries. You can install them using `pip`:
-
-    ```bash
-    pip install torch torchvision pandas numpy opencv-python scikit-learn decord tqdm
-    ```
-
-4.  **Open in Colab:** Open the notebook in Google Colab and ensure the runtime is set to use a GPU accelerator (`Runtime` \> `Change runtime type` \> `GPU`).
 
 ### Workflow
 
